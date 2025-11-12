@@ -1,7 +1,11 @@
+import logging
+
 from app.config import App
 
 from repo.camera.errors import *
 from repo.camera.capi import CameraAPI
+
+from repo.server.server import APIServer
 
 from services.camera.interactor import CameraInteractor
 from services.converter import ConverterErr
@@ -10,23 +14,32 @@ from services.server.interactor import FlowInteractor
 from view.view import InfoDisplayView
 
 if __name__ == "__main__":
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler('./logs/fr-camera-service.log'),
+            logging.StreamHandler()
+        ]
+    )
+
+    logger = logging.getLogger(__name__)
+
     appl = App(
         InfoDisplayView(
             FlowInteractor(
                 CameraInteractor(
                     CameraAPI(1),
+                    logger,
                 ),
-                server_socket="",
+                APIServer("localhost:8080"),
+                logger,
             ),
-            read_delay=5,
+            read_delay=0.1,
         ),
     )
 
     try:
         appl.run()
-    except KeyboardInterrupt:
+    except:
         appl.close()
-    
-    except CameraAPIError | ConverterErr as c:
-        appl.close()
-        print(f"[ERROR]: {c.get_message}\n[CODE]: {c.get_code()}")
