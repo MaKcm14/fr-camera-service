@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Очередь</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            max-width: 500px;
+            width: 90%;
+        }
+
+        .ticket-display {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 40px 30px;
+            text-align: center;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #333;
+            margin-bottom: 30px;
+            font-weight: 300;
+        }
+
+        .message {
+            font-size: 20px;
+            color: #666;
+            margin-bottom: 30px;
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            line-height: 1.4;
+            font-size: 20px;
+        }
+
+        .ticket-info {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+            color: white;
+        }
+
+        .ticket-number {
+            font-size: 3rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .window-number {
+            font-size: 2rem;
+            opacity: 0.95;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+        }
+
+        .status {
+            font-size: 1.2rem;
+            color: #4facfe;
+            font-weight: bold;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+
+        .loading {
+            animation: pulse 1.5s infinite;
+        }
+
+        @media (max-width: 480px) {
+            .ticket-display {
+                padding: 30px 20px;
+            }
+            h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="ticket-display">
+            <h1>Info-Desk</h1>
+            <div id="message" class="message">Ожидание обновления...</div>
+            <div id="ticket-info" class="ticket-info hidden">
+                <div class="ticket-number">Талон № <span id="ticket-id">-</span></div>
+                <div class="window-number">Окно № <span id="window-id">-</span></div>
+            </div>
+            <div id="status" class="status hidden">Current Queue Information</div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const messageEl = document.getElementById('message');
+            const ticketInfo = document.getElementById('ticket-info');
+            const ticketIdEl = document.getElementById('ticket-id');
+            const windowIdEl = document.getElementById('window-id');
+            const statusEl = document.getElementById('status');
+
+            // Интервал обновления каждые 3 секунды (3000мс)
+            const UPDATE_INTERVAL = 35000;
+
+            async function updateTicket() {
+                messageEl.textContent = 'Ожидание получения очереди...';
+                messageEl.classList.add('loading');
+                ticketInfo.classList.add('hidden');
+                statusEl.classList.add('hidden');
+
+                try {
+                    const response = await fetch('/invite');
+                    const data = await response.json();
+                    
+                    messageEl.textContent = data.message;
+                    messageEl.classList.remove('loading');
+                    
+                    if (data.ticket_id) {
+                        ticketIdEl.textContent = data.ticket_id;
+                        windowIdEl.textContent = data.window_id || '-';
+                        ticketInfo.classList.remove('hidden');
+                        statusEl.classList.remove('hidden');
+                    }
+                } catch (error) {
+                    messageEl.textContent = 'Ошибка соединения';
+                    statusEl.textContent = 'Ошибка';
+                    statusEl.classList.remove('hidden');
+                    console.error('Error:', error);
+                }
+            }
+
+            // Запуск цикла каждые 3 секунды
+            updateTicket(); // Первый запрос сразу
+            setInterval(updateTicket, UPDATE_INTERVAL);
+        });
+    </script>
+</body>
+</html>

@@ -1,10 +1,10 @@
-from view.notify import UserNotifDisplayView
+from view.notify import Controller
 
 class App:
-    _view: UserNotifDisplayView
+    _contr: Controller
 
-    def __init__(self, view: UserNotifDisplayView):
-        self._view = view
+    def __init__(self, contr: Controller):
+        self._contr = contr
 
     def run(self):
-        self._view.start()
+        self._contr.run()

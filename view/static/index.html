@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Мой клиент изображений</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .result {
+      margin-top: 20px;
+      padding: 15px;
+      border-radius: 8px;
+      background: white;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .ticket-id {
+      font-weight: bold;
+      color: #2c7;
+    }
+    .message {
+      color: #1976d2;
+      font-style: italic;
+      margin: 8px 0;
+      font-size: 30px;
+    }
+    .error {
+      color: #d32f2f;
+      background-color: #ffebee;
+      padding: 10px;
+      border-radius: 6px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin-top: 10px;
+      border: 1px solid #ddd;
+    }
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Запись в очередь</h1>
+
+  <div id="result" class="result hidden"></div>
+
+  <script>
+    const API_URL = 'http://localhost:9090/enqueue';
+    const resultDiv = document.getElementById('result');
+
+    function updateResult(content) {
+      resultDiv.innerHTML = content;
+      resultDiv.classList.remove('hidden');
+    }
+
+    function showError(message) {
+      updateResult(`<div class="error">Ошибка: ${message}</div>`);
+    }
+
+    async function fetchImage() {
+      try {
+        const response = await fetch(API_URL, {
+          method: 'GET',
+          headers: { 'Accept': 'application/json' }
+        });
+
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+
+        const data = await response.json();
+
+        if (data.error) {
+          showError(data.error);
+        } else if (data.ticket_id && data.image_bytes) {
+          const imgSrc = `data:image/jpeg;base64,${data.image_bytes}`;
+          let html = '';
+
+          // Отображаем message, если есть
+          if (data.message) {
+            html += `<div class="message">${data.message}</div>`;
+          }
+
+          // Отображаем ticket_id
+          html += `<div>Номер заявки (ticket_id): <span class="ticket-id">${data.ticket_id}</span></div>`;
+
+          // Отображаем изображение
+          html += `<img src="${imgSrc}" alt="Полученное изображение" />`;
+
+          updateResult(html);
+        } else {
+          showError('Сервер вернул некорректные данные (ожидается ticket_id и image_bytes)');
+        }
+      } catch (err) {
+        if (err.name !== 'AbortError') {
+          showError(err.message || 'Неизвестная ошибка при запросе');
+        }
+      }
+    }
+
+    // Запускаем опрос сразу и каждые 2 секунды
+    fetchImage();
+    setInterval(fetchImage, 1500);
+  </script>
+</body>
+</html>

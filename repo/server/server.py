@@ -9,6 +9,11 @@ class ServerDTO:
     person_id: int
     ticket_id: int
 
+    def __init__(self):
+        self.enqueued = False
+        self.person_id = -1
+        self.ticket_id = -1
+
     def set_enqueued(self, enqueued: bool):
         self.enqueued = enqueued
 

@@ -11,7 +11,7 @@ from services.camera.interactor import CameraInteractor
 from services.converter import ConverterErr
 from services.server.interactor import FlowInteractor
 
-from view.view import InfoDisplayView
+from view.view import Controller
 
 if __name__ == "__main__":
     logging.basicConfig(
@@ -26,20 +26,20 @@ if __name__ == "__main__":
     logger = logging.getLogger(__name__)
 
     appl = App(
-        InfoDisplayView(
+        Controller(
             FlowInteractor(
                 CameraInteractor(
-                    CameraAPI(1),
+                    CameraAPI(0),
                     logger,
                 ),
                 APIServer("localhost:8080"),
                 logger,
             ),
-            read_delay=0.1,
+            read_delay=1,
         ),
     )
 
     try:
         appl.run()
     except:
-        appl.close()
+        pass

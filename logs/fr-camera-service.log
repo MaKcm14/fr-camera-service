@@ -103,3 +103,1971 @@
 2025-11-12 22:56:02,681 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
 2025-11-12 22:56:04,760 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
 2025-11-12 22:56:06,856 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:10,674 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:12,964 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:15,049 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:17,183 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:19,280 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:21,359 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:23,438 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:25,532 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:27,628 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:31,795 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:33,893 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:35,998 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:38,104 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:46:40,200 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:52:12,451 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:52:14,539 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:52:18,696 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:52:27,054 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 11:52:31,233 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 16:08:41,457 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 16:08:43,925 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 16:08:46,175 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 16:08:50,704 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 16:08:55,139 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 16:08:59,599 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 16:09:01,841 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 16:09:08,478 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-15 16:09:10,823 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:01:26,211 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:01:28,347 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:01:30,456 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:01:34,654 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:01:41,021 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:37:58,465 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:37:58,465 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:38:11,096 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:38:11] "[33mGET / HTTP/1.1[0m" 404 -
+2025-11-28 19:38:11,226 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:38:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-28 19:38:32,580 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:38:32,580 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:38:40,663 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:38:40] "[33mGET / HTTP/1.1[0m" 404 -
+2025-11-28 19:39:21,977 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:39:21,977 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:39:22,038 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:39:22] "[33mGET / HTTP/1.1[0m" 404 -
+2025-11-28 19:42:17,955 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:42:17,955 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:42:21,448 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:42:21] "[33mGET / HTTP/1.1[0m" 404 -
+2025-11-28 19:43:10,317 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:43:10,317 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:43:29,470 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:43:29] "GET / HTTP/1.1" 200 -
+2025-11-28 19:43:29,608 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:43:29,713 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:43:29] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:43:31,628 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:43:31,631 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:43:31] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:43:33,934 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:43:33,936 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:43:33] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:43:36,149 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:43:36,150 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:43:36] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:43:38,455 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:43:38,460 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:43:38] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:43:40,140 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:43:40,144 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:43:40] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:43:42,463 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:43:42,463 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:43:42] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:44:11,336 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:44:11,337 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:44:11,713 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:44:11,714 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:44:11] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:44:13,935 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:44:13,936 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:44:13] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:44:16,146 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:44:16,147 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:44:16] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:46:41,282 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:46:41,283 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:46:47,048 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:46:47,055 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:46:47] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:46:48,143 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:46:48,144 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:46:48] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:46:50,451 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:46:50,452 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:46:50] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:46:52,148 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:46:52,149 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:46:52] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:46:54,466 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:46:54,467 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:46:54] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:46:56,154 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:46:56,158 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:46:56] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:46:58,462 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:46:58,464 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:46:58] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:47:00,153 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:47:00,158 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:47:00] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:47:02,463 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'notify'
+2025-11-28 19:47:02,468 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:47:02] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:48:37,769 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:48:37,769 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:48:49,101 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\__init__.py", line 514, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\decoder.py", line 386, in decode
+    obj, end = self.raw_decode(s)
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\decoder.py", line 416, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+simplejson.errors.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\services\server\interactor.py", line 35, in notify
+    return self._api.send_frame(frame), frame
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\repo\server\server.py", line 39, in send_frame
+    data = resp.json()
+           ^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-11-28 19:48:49,112 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:48:49] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:48:51,295 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\__init__.py", line 514, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\decoder.py", line 386, in decode
+    obj, end = self.raw_decode(s)
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\decoder.py", line 416, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+simplejson.errors.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\services\server\interactor.py", line 35, in notify
+    return self._api.send_frame(frame), frame
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\repo\server\server.py", line 39, in send_frame
+    data = resp.json()
+           ^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-11-28 19:48:51,301 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:48:51] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:48:53,817 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\__init__.py", line 514, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\decoder.py", line 386, in decode
+    obj, end = self.raw_decode(s)
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\decoder.py", line 416, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+simplejson.errors.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\services\server\interactor.py", line 35, in notify
+    return self._api.send_frame(frame), frame
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\repo\server\server.py", line 39, in send_frame
+    data = resp.json()
+           ^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-11-28 19:48:53,820 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:48:53] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:48:56,006 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\__init__.py", line 514, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\decoder.py", line 386, in decode
+    obj, end = self.raw_decode(s)
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\simplejson\decoder.py", line 416, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+simplejson.errors.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 30, in handler_get_frame
+    dto, frame = self._flow.notify()
+                 ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\services\server\interactor.py", line 35, in notify
+    return self._api.send_frame(frame), frame
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\repo\server\server.py", line 39, in send_frame
+    data = resp.json()
+           ^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-11-28 19:48:56,010 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:48:56] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:49:27,438 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:49:27,438 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:49:30,899 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 40, in handler_get_frame
+    return jsonify({
+           ^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type bytes is not JSON serializable
+2025-11-28 19:49:30,908 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:49:30] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:49:33,394 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:49:33,397 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 41, in handler_get_frame
+    "ticket_id": dto.ticket_id,
+                 ^^^^^^^^^^^^^
+AttributeError: 'ServerDTO' object has no attribute 'ticket_id'
+2025-11-28 19:49:33,399 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:49:33] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:49:35,594 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 40, in handler_get_frame
+    return jsonify({
+           ^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type bytes is not JSON serializable
+2025-11-28 19:49:35,595 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:49:35] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:52:48,758 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:52:48,758 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:52:59,358 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:52:59] "[36mGET / HTTP/1.1[0m" 304 -
+2025-11-28 19:53:02,883 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:53:02,885 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 41, in handler_get_frame
+    "ticket_id": dto.ticket_id,
+                 ^^^^^^^^^^^^^
+AttributeError: 'ServerDTO' object has no attribute 'ticket_id'
+2025-11-28 19:53:02,887 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:53:02] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:53:05,077 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 40, in handler_get_frame
+    return jsonify({
+           ^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type bytes is not JSON serializable
+2025-11-28 19:53:05,081 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:53:05] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:53:07,567 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 40, in handler_get_frame
+    return jsonify({
+           ^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type bytes is not JSON serializable
+2025-11-28 19:53:07,569 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:53:07] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:55:27,652 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:55:27,652 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:55:41,969 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:55:41,969 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 32, in handler_get_frame
+    print("DTO: ", dto.person_id, dto.enqueued, dto.ticket_id)
+                   ^^^^^^^^^^^^^
+AttributeError: 'ServerDTO' object has no attribute 'person_id'
+2025-11-28 19:55:41,971 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:55:41] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:55:44,162 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 42, in handler_get_frame
+    return jsonify({
+           ^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type bytes is not JSON serializable
+2025-11-28 19:55:44,166 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:55:44] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:55:46,678 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:55:46,679 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 32, in handler_get_frame
+    print("DTO: ", dto.person_id, dto.enqueued, dto.ticket_id)
+                   ^^^^^^^^^^^^^
+AttributeError: 'ServerDTO' object has no attribute 'person_id'
+2025-11-28 19:55:46,681 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:55:46] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:58:36,107 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:58:36,108 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:58:42,567 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:58:42,567 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 35, in handler_get_frame
+    print("DTO: ", dto.person_id, dto.enqueued, dto.ticket_id)
+                   ^^^^^^^^^^^^^
+AttributeError: 'ServerDTO' object has no attribute 'person_id'
+2025-11-28 19:58:42,570 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:58:42] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:58:44,751 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 19:58:44,752 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 35, in handler_get_frame
+    print("DTO: ", dto.person_id, dto.enqueued, dto.ticket_id)
+                   ^^^^^^^^^^^^^
+AttributeError: 'ServerDTO' object has no attribute 'person_id'
+2025-11-28 19:58:44,754 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:58:44] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:58:47,247 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 45, in handler_get_frame
+    return jsonify({
+           ^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type bytes is not JSON serializable
+2025-11-28 19:58:47,250 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:58:47] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 19:59:19,895 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 19:59:19,896 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 19:59:23,350 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 40, in handler_get_frame
+    return jsonify({
+           ^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type bytes is not JSON serializable
+2025-11-28 19:59:23,354 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 19:59:23] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 20:01:56,672 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 20:01:56,673 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 20:02:00,838 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 40, in handler_get_frame
+    return jsonify({
+           ^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type bytes is not JSON serializable
+2025-11-28 20:02:00,842 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:02:00] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 20:02:03,047 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 40, in handler_get_frame
+    return jsonify({
+           ^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type bytes is not JSON serializable
+2025-11-28 20:02:03,049 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:02:03] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 20:02:05,575 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:02:05,578 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 40, in handler_get_frame
+    return jsonify({
+           ^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type bytes is not JSON serializable
+2025-11-28 20:02:05,580 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:02:05] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 20:02:07,764 - view.view - ERROR - Exception on /invite [GET]
+Traceback (most recent call last):
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\fr-camera-service\view\view.py", line 40, in handler_get_frame
+    return jsonify({
+           ^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maksi\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type bytes is not JSON serializable
+2025-11-28 20:02:07,766 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:02:07] "[35m[1mGET /invite HTTP/1.1[0m" 500 -
+2025-11-28 20:04:38,564 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 20:04:38,565 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 20:04:43,066 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:04:43,071 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:04:43] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:04:45,278 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:04:45,284 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:04:45] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:04:47,824 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:04:47] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:04:50,350 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:04:50] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:04:52,868 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:04:52] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:04:55,356 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:04:55] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:04:57,862 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:04:57,866 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:04:57] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:00,375 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:00,380 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:00] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:02,944 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:02,948 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:02] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:05,490 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:05] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:08,037 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:10,569 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:10,576 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:10] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:13,136 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:13,142 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:15,661 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:15,666 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:15] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:18,150 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:20,686 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:23,197 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:23] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:25,684 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:25,688 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:28,229 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:28,235 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:30,787 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:33,319 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:33,323 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:33] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:35,830 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:35,834 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:38,360 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:38,364 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:38] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:40,862 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:43,372 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:43] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:45,934 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:45] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:50,676 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:50,682 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:50] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:52,899 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:52] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:55,454 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:05:55,460 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:55] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:05:57,998 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:05:57] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:00,542 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:06:00,550 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:00] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:03,073 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:03] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:05,609 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:05] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:07,936 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:06:07,941 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:07] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:08,159 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:10,683 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:06:10,688 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:10] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:13,213 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:15,725 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:06:15,730 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:15] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:17,935 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:17] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:18,254 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:20,779 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:23,294 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:23] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:25,848 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:27,920 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:27] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:28,373 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:30,877 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:33,410 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:33] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:35,930 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:38,465 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:38] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:40,545 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:40,983 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:06:40,989 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:43,516 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:43] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:46,022 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:46] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:48,547 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:06:48,554 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:48] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:48,571 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:48] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:51,100 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:06:51,104 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:51] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:53,617 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:53] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:56,118 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:06:56,123 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:56] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:58,550 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:58] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:06:58,640 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:06:58] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:07:01,161 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:07:01] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:07:03,677 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:07:03] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:07:06,196 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:07:06] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:07:08,566 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:07:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:07:08,733 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:07:08,738 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:07:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:07:11,241 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:07:11] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:07:24,075 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 20:07:24,076 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 20:07:26,938 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:07:26,944 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:07:26] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:07:29,062 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:07:29,067 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:07:29] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:07:31,482 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:07:31,488 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:07:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:07:33,908 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:07:33,912 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:07:33] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:07:57,545 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 20:07:57,547 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 20:08:02,699 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:02] "GET / HTTP/1.1" 200 -
+2025-11-28 20:08:05,719 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:05,728 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:05] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:08,147 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:10,578 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:10] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:13,017 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:15,428 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:15,432 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:15] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:17,822 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:17] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:20,238 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:20,242 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:22,664 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:25,072 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:25,600 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:25,604 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:25,650 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:25,655 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:25,671 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:25,741 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:25,788 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:25,792 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:27,474 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:27] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:28,041 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:28,071 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:28,091 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:28,100 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:28,149 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:28,190 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:28,195 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:29,889 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:29] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:30,532 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:30,542 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:30,549 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:30,551 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:30,555 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:30,556 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:30,566 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:30,622 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:30,628 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:32,359 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:32] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:32,994 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:32] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:33,005 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:33] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:33,012 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:33,017 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:33] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:33,031 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:33] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:33,071 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:33] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:34,796 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:34] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:35,438 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:35,473 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:35,478 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:35,506 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:35,515 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:35,528 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:35,533 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:35,550 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:35,555 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:37,257 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:37,895 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:37,918 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:37,923 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:37,949 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:37,954 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:37,984 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:37,997 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:38,002 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:38] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:39,718 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:39] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:40,322 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:40,341 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:40,359 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:40,406 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:40,416 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:40,429 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:42,163 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:42,167 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:42] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:56,699 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 20:08:56,699 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 20:08:57,073 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:57] "GET / HTTP/1.1" 200 -
+2025-11-28 20:08:59,781 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:59] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:59,782 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:59,787 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:59] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:59,788 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:08:59,796 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:59] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:59,829 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:59] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:59,864 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:59] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:08:59,913 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:08:59] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:02,010 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:02] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:04,118 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:04,123 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:04] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:06,234 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:06,238 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:06] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:08,348 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:10,452 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:10,459 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:10] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:12,858 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:12,862 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:12] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:15,276 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:15] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:17,688 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:17] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:19,578 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:19] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:19,598 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:19,605 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:19] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:19,612 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:19] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:19,622 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:19] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:19,658 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:19,663 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:19] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:20,086 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:20,091 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:22,045 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:22,073 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:22,080 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:22,093 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:22,112 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:22,117 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:22,505 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:22,510 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:24,463 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:24] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:24,503 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:24] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:24,515 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:24,523 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:24] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:24,534 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:24] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:24,563 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:24] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:24,884 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:24,889 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:24] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:26,884 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:26] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:26,923 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:26,927 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:26] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:26,943 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:26] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:26,971 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:26,978 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:26] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:27,000 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:27] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:27,330 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:27,336 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:27] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:29,320 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:29,324 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:29] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:29,334 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:29,341 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:29] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:29,398 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:29,407 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:29] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:29,433 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:29] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:29,460 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:29,466 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:29] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:29,753 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:29,758 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:29] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:31,753 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:31,774 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:31,826 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:31,859 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:31,978 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:32,192 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:32,196 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:32] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:34,165 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:34] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:34,177 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:34,183 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:34] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:34,234 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:34] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:34,278 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:34] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:34,380 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:34,385 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:34] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:34,597 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:34,603 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:34] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:36,572 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:36,579 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:36] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:36,598 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:36,609 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:36] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:36,653 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:36] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:36,698 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:36] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:36,790 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:36,796 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:36] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:37,029 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:39,039 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:39] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:39,088 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:39,096 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:39] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:39,146 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:39] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:39,168 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:39] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:39,260 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:39] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:39,478 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:39,488 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:39] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:41,507 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:41,512 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:41] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:41,580 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:41] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:41,607 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:41,617 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:41] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:41,648 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:41] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:41,717 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:41,726 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:41] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:41,970 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:41,981 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:41] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:43,947 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:43] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:44,062 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:44] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:44,143 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:44,151 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:44] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:44,157 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:44] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:44,200 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:44] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:44,461 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:44,467 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:44] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:46,339 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:46,343 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:46] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:46,504 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:46] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:46,624 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:46] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:46,625 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:46,634 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:46] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:46,664 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:46] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:46,888 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:46,892 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:46] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:48,757 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:48,762 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:48] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:48,934 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:48] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:49,062 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:49,072 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:49] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:49,079 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:49] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:49,107 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:49] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:49,303 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:49] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:51,217 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:51,223 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:51] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:51,360 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:51,363 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:51] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:51,545 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:51] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:51,573 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:51,585 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:51] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:51,591 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:51,604 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:51] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:51,752 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:51] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:53,669 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:53] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:53,794 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:53] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:54,023 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:54,030 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:54] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:54,054 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:54] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:54,070 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:54] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:54,213 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:54,219 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:54] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:56,071 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:56] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:56,200 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:56] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:56,452 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:56,459 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:56] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:56,494 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:56,511 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:56] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:56,514 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:56,528 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:56] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:56,618 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:56,623 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:56] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:58,483 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:58] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:58,617 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:58,622 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:58] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:58,916 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:58,923 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:58] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:58,954 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:58,955 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:58,962 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:58] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:58,970 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:58] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:09:59,012 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:09:59,019 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:09:59] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:00,917 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:00] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:01,053 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:01,058 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:01] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:01,349 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:01,354 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:01] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:01,399 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:01] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:01,402 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:01,410 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:01] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:01,454 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:01] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:03,318 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:03,322 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:03] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:03,495 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:03] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:03,800 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:03,805 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:03] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:03,835 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:03] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:03,837 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:03,844 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:03] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:03,890 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:03] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:05,756 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:05] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:05,923 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:05,927 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:05] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:06,236 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:06,241 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:06] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:06,260 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:06] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:06,295 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:06] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:06,321 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:06,327 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:06] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:08,159 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:08,375 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:08,381 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:08,671 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:08,676 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:08,689 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:08,696 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:08,741 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:08,751 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:08,769 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:08] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:10,577 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:10] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:10,828 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:10] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:11,124 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:11] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:11,135 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:11,140 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:11] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:11,207 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:11,207 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:11,215 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:11] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:11,220 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:11] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:12,988 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:12] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:13,237 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:13,241 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:13,522 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:13,528 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:13,560 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:13,625 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:13,635 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:13,653 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:13,660 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:15,426 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:15] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:15,678 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:15] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:15,988 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:15] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:16,025 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:16] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:16,069 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:16] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:16,108 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:16,113 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:16] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:17,857 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:17] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:18,104 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:18,402 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:18,442 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:18,489 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:18,508 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:18,513 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:20,286 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:20,290 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:20,518 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:20,822 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:20,859 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:20,918 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:20,930 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:20,936 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:22,716 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:22,945 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:23,222 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:23,228 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:23] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:23,280 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:23] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:23,337 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:23] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:23,349 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:23,354 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:23] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:25,116 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:25,361 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:25,631 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:25,681 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:25,742 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:25,754 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:25,759 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:27,531 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:27] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:27,763 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:27,768 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:27] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:28,045 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:28,051 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:28,098 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:28,151 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:28,156 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:28,173 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:29,962 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:29] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:30,175 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:30,180 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:30,475 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:30,480 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:30,516 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:30,575 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:30,610 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:32,361 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:32] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:32,604 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:32,608 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:32] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:32,889 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:32] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:32,934 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:32,940 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:32] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:32,995 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:33,000 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:33] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:33,048 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:33] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:34,795 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:34] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:35,041 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:35,292 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:35,364 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:35,370 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:35,422 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:35,451 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:35,455 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:37,208 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:37,215 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:37,472 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:37,477 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:37,706 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:37,713 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:37,798 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:37,840 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:37,848 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:37,882 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:37,889 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:39,614 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:39,618 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:39] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:39,929 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:39] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:40,150 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:40,157 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:40,218 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:40,224 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:40,316 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:40,329 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:40,332 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:40] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:42,029 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:42,033 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:42] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:42,346 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:42] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:42,588 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:42,594 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:42] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:42,638 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:42] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:42,749 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:42,753 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:42] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:42,759 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:42,765 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:42] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:44,450 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:44] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:44,748 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:44] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:44,982 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:44,988 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:44] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:45,038 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:45,046 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:45] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:45,431 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:45,435 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:45] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:45,466 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:45] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:46,882 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:46] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:47,160 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:47,164 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:47] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:47,396 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:47] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:47,474 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:47] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:47,850 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:47] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:47,876 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:47,881 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:47] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:49,298 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:49] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:49,597 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:49] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:49,826 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:49,831 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:49] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:49,902 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:49,909 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:49] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:50,263 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:50,268 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:50] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:50,300 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:50] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:51,726 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:51,734 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:51] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:52,020 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:52] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:52,261 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:52,267 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:52] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:10:52,321 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:10:52,329 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:10:52] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:13,242 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 20:11:13,242 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 20:11:13,458 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:13] "GET / HTTP/1.1" 200 -
+2025-11-28 20:11:16,218 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:11:16,222 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:16] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:16,236 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:11:16,236 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:11:16,242 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:16] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:16,246 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:16] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:16,263 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:11:16,268 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:16] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:16,341 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:16] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:16,356 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:16] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:18,485 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:20,610 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:22,731 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:11:22,736 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:24,851 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:24] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:26,970 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:11:26,975 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:26] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:29,400 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:11:29,406 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:29] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:31,822 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:34,262 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:34] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:11:36,685 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:11:36] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:18:44,145 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 20:18:44,146 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 20:18:47,464 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:18:47] "[36mGET / HTTP/1.1[0m" 304 -
+2025-11-28 20:18:50,877 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:18:50] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:18:53,025 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:18:53] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:18:55,470 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:18:55] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:18:57,890 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:18:57] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:00,300 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:00,304 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:00] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:02,756 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:02,761 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:02] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:05,183 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:05,187 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:05] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:07,610 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:07,614 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:07] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:10,048 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:10] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:10,831 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:10] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:10,910 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:10,916 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:10] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:11,054 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:11] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:11,130 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:11,135 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:11] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:11,242 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:11] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:12,461 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:12] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:13,225 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:13,330 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:13,334 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:13,494 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:13,500 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:13,544 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:13,644 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:13,648 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:14,865 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:14,869 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:14] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:15,669 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:15,675 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:15] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:15,742 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:15] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:15,935 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:15] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:15,960 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:15,965 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:15] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:16,053 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:16,057 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:16] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:17,295 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:17,302 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:17] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:18,102 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:18,111 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:18,145 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:18,151 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:18,378 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:18,390 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:18,397 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:18,487 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:18,493 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:18] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:19,745 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:19,749 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:19] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:20,522 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:20,592 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:20,598 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:20,823 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:20,836 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:20,840 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:20,972 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:22,200 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:22,205 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:22,971 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:22] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:23,033 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:23] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:23,279 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:23,283 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:23] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:23,287 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:23] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:23,396 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:23] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:24,666 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:24,675 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:24] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:25,438 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:25,471 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:25,762 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:25,766 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:25,814 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:25,821 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:25] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:27,126 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:27] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:27,894 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:27] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:27,924 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:27] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:28,199 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:19:28,208 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:28,217 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:28,271 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:28] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:19:29,541 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:19:29] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:04,998 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 20:22:04,999 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 20:22:07,445 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:07] "GET / HTTP/1.1" 200 -
+2025-11-28 20:22:09,636 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:09] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:09,648 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:09] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:09,648 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:09] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:10,717 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:10] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:13,865 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:13] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:17,002 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:17] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:20,462 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:20,469 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:20] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:23,913 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:23] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:27,348 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:27,355 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:27] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:30,781 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:30,787 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:30] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:31,606 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:31,678 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:31,685 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:31,795 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:31,868 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:31,873 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:31,966 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:31] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:34,231 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:34] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:35,052 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:35,058 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:35,116 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:35,218 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:35,223 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:35,294 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:35,299 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:35,405 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:35,411 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:37,680 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:37] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:38,473 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:38] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:38,527 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:38] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:38,629 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:38] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:38,704 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:38,708 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:38] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:38,838 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:38] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:41,110 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:41,115 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:41] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:41,905 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:41,910 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:41] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:41,957 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:41] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:42,058 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:42,062 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:42] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:42,106 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:42,111 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:42] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:42,265 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:42] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:44,548 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:44] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:45,325 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:45,330 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:45] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:45,375 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:45,383 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:45] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:45,497 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:45,501 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:45] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:45,529 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:45,535 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:45] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:45,700 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:45,708 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:45] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:47,986 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:47,990 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:47] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:48,769 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:48] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:48,877 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:48] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:48,936 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:48] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:48,946 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:48,952 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:48] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:49,123 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:49] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:51,418 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:51,425 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:51] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:52,178 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:52,182 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:52] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:52,285 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:52] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:52,337 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:52,341 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:52] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:52,358 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:52] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:52,523 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:52,528 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:52] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:22:54,847 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:22:54,852 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:22:54] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:24:50,289 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 20:24:50,289 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 20:25:26,731 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 20:25:26,732 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 20:25:35,411 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:25:35] "GET / HTTP/1.1" 200 -
+2025-11-28 20:25:35,841 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:25:35] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:25:38,852 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:25:38] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:25:41,991 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:25:41] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:25:45,414 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:25:45] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:25:48,839 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:25:48] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:25:52,279 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:25:52] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:25:55,701 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:25:55] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:25:59,103 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:25:59] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:26:02,526 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:26:02,532 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:26:02] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:26:05,990 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:26:05] "GET /invite HTTP/1.1" 200 -
+2025-11-28 20:26:09,398 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 20:26:09,403 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 20:26:09] "GET /invite HTTP/1.1" 200 -
+2025-11-28 22:02:20,986 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 22:02:20,987 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 22:02:28,555 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:02:28] "GET / HTTP/1.1" 200 -
+2025-11-28 22:02:33,130 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:02:33] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:02:35,057 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:02:35] "[36mGET / HTTP/1.1[0m" 304 -
+2025-11-28 22:02:36,246 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:02:36] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:02:39,663 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:02:39] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:02:43,125 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:02:43] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:02:46,545 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:02:46] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:02:49,976 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 22:02:49,981 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:02:49] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:02:53,398 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 22:02:53,402 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:02:53] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:02:56,827 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:02:56] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:00,230 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 22:03:00,237 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:00] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:03,674 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 22:03:03,680 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:03] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:07,013 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 22:03:07,017 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:07] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:07,099 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 22:03:07,103 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:07] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:10,023 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 22:03:10,028 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:10] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:10,559 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:10] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:13,031 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 22:03:13,034 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:13] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:13,996 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:13] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:16,013 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 22:03:16,018 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:16] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:17,423 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:17] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:19,024 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 22:03:19,031 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:19] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:20,524 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:20] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 22:03:20,866 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:20] "GET /enqueue HTTP/1.1" 200 -
