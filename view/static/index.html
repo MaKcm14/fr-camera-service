@@ -3,61 +3,253 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Мой клиент изображений</title>
+  <title>Запись в очередь</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 30px auto;
-      padding: 20px;
-      background-color: #f9f9f9;
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
     }
+
+    body {
+      font-family: 'Segoe UI', -apple-system, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .container {
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(20px);
+      border-radius: 24px;
+      padding: 40px;
+      max-width: 900px;
+      width: 100%;
+      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
     h1 {
       text-align: center;
-      color: #333;
+      font-size: clamp(2rem, 5vw, 3rem);
+      background: linear-gradient(135deg, #667eea, #764ba2);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 30px;
+      font-weight: 300;
     }
+
+    .status-indicator {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      margin-bottom: 30px;
+      padding: 12px 24px;
+      background: rgba(102, 126, 234, 0.1);
+      border-radius: 50px;
+      font-size: 1.1rem;
+      font-weight: 500;
+    }
+
+    .status-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: #4ade80;
+      animation: pulse 2s infinite;
+      box-shadow: 0 0 0 0 rgba(74, 222, 128, 0.7);
+    }
+
+    .status-dot.loading {
+      background: #f59e0b;
+      animation: pulse-loading 1.5s infinite;
+    }
+
+    .status-dot.error {
+      background: #ef4444;
+      animation: none;
+    }
+
     .result {
-      margin-top: 20px;
-      padding: 15px;
-      border-radius: 8px;
-      background: white;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeInUp 0.6s ease forwards;
     }
-    .ticket-id {
-      font-weight: bold;
-      color: #2c7;
-    }
+
     .message {
-      color: #1976d2;
-      font-style: italic;
-      margin: 8px 0;
-      font-size: 30px;
+      background: linear-gradient(135deg, #10b981, #059669);
+      color: white;
+      padding: 24px;
+      border-radius: 20px;
+      font-size: clamp(1.3rem, 4vw, 2rem);
+      font-weight: 500;
+      text-align: center;
+      margin-bottom: 24px;
+      box-shadow: 0 10px 30px rgba(16, 185, 129, 0.3);
+      line-height: 1.4;
     }
+
+    .ticket-card {
+      background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+      color: white;
+      padding: 32px;
+      border-radius: 20px;
+      margin-bottom: 24px;
+      text-align: center;
+      box-shadow: 0 20px 40px rgba(59, 130, 246, 0.3);
+    }
+
+    .ticket-id {
+      font-size: clamp(3rem, 8vw, 5rem);
+      font-weight: 800;
+      background: linear-gradient(135deg, #ffffff, #e0e7ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      display: block;
+      margin-bottom: 8px;
+      letter-spacing: -2px;
+    }
+
+    .ticket-label {
+      font-size: 1.3rem;
+      opacity: 0.95;
+      font-weight: 500;
+    }
+
+    .image-container {
+      position: relative;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+      background: #f3f4f6;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 500px;
+    }
+
+    .image-container img {
+      width: 100%;
+      height: 500px;
+      object-fit: cover;
+      display: block;
+      image-rendering: -webkit-optimize-contrast;
+    }
+
+    .static-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 20px;
+    }
+
+    .waiting-message {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      color: #6b7280;
+      font-size: 1.4rem;
+      z-index: 2;
+    }
+
     .error {
-      color: #d32f2f;
-      background-color: #ffebee;
-      padding: 10px;
-      border-radius: 6px;
+      background: linear-gradient(135deg, #ef4444, #dc2626);
+      color: white;
+      padding: 24px;
+      border-radius: 20px;
+      text-align: center;
+      font-size: 1.2rem;
+      font-weight: 500;
+      box-shadow: 0 10px 30px rgba(239, 68, 68, 0.4);
     }
-    img {
-      max-width: 100%;
-      height: auto;
-      margin-top: 10px;
-      border: 1px solid #ddd;
-    }
+
     .hidden {
       display: none;
+    }
+
+    .last-update {
+      text-align: center;
+      color: #6b7280;
+      font-size: 0.9rem;
+      margin-top: 20px;
+      font-weight: 500;
+    }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes pulse {
+      0% { box-shadow: 0 0 0 0 rgba(74, 222, 128, 0.7); }
+      70% { box-shadow: 0 0 0 10px rgba(74, 222, 128, 0); }
+      100% { box-shadow: 0 0 0 0 rgba(74, 222, 128, 0); }
+    }
+
+    @keyframes pulse-loading {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.6; }
+    }
+
+    @media (max-width: 768px) {
+      .container {
+        padding: 30px 20px;
+        margin: 10px;
+      }
+      
+      .image-container {
+        min-height: 300px;
+      }
+      
+      .image-container img,
+      .static-image {
+        height: 300px;
+      }
+      
+      .ticket-card {
+        padding: 24px 20px;
+      }
     }
   </style>
 </head>
 <body>
-  <h1>Запись в очередь</h1>
+  <div class="container">
+    <h1>🎫 Запись в очередь</h1>
+    
+    <div class="status-indicator">
+      <div id="status-dot" class="status-dot loading"></div>
+      <span id="status-text">Подключение...</span>
+    </div>
 
-  <div id="result" class="result hidden"></div>
+    <div id="result" class="result hidden"></div>
+    
+    <div id="last-update" class="last-update hidden">
+      Последнее обновление: <span id="update-time"></span>
+    </div>
+  </div>
 
   <script>
-    const API_URL = 'http://localhost:9090/enqueue';
+    const API_URL = 'http://169.254.1.1:9090/enqueue';
+    
+    // ЗАМЕНИТЕ НА ВАШУ СТАТИЧЕСКУЮ КАРТИНКУ (base64 или URL)
+    const STATIC_IMAGE_SRC = 'http://169.254.1.1:9090/img/capybara'
+
     const resultDiv = document.getElementById('result');
+    const statusDot = document.getElementById('status-dot');
+    const statusText = document.getElementById('status-text');
+    const lastUpdate = document.getElementById('last-update');
+    const updateTime = document.getElementById('update-time');
 
     function updateResult(content) {
       resultDiv.innerHTML = content;
@@ -65,10 +257,44 @@
     }
 
     function showError(message) {
-      updateResult(`<div class="error">Ошибка: ${message}</div>`);
+      statusDot.className = 'status-dot error';
+      statusText.textContent = 'Ошибка';
+      updateResult(`<div class="error">❌ ${message}</div>`);
+      lastUpdate.classList.remove('hidden');
+    }
+
+    function showSuccess() {
+      statusDot.className = 'status-dot';
+      statusText.textContent = 'Готово ✓';
+    }
+
+    function showLoading() {
+      statusDot.className = 'status-dot loading';
+      statusText.textContent = 'Обновление...';
+    }
+
+    function showWaitingState() {
+      statusDot.className = 'status-dot';
+      statusText.textContent = 'Ожидание записи...';
+      
+      const html = `
+        <div class="image-container">
+          <img src="${STATIC_IMAGE_SRC}" alt="Ожидание" class="static-image" />
+        </div>
+        <div class="message">Готовы к записи</div>
+      `;
+      updateResult(html);
+      updateTimestamp();
+    }
+
+    function updateTimestamp() {
+      updateTime.textContent = new Date().toLocaleTimeString('ru-RU');
+      lastUpdate.classList.remove('hidden');
     }
 
     async function fetchImage() {
+      showLoading();
+      
       try {
         const response = await fetch(API_URL, {
           method: 'GET',
@@ -83,24 +309,33 @@
 
         if (data.error) {
           showError(data.error);
+        } else if (data.enqueued === false) {
+          // ✅ ПОКАЗЫВАЕМ СТАТИЧЕСКУЮ КАРТИНКУ при enqueued: false
+          showWaitingState();
         } else if (data.ticket_id && data.image_bytes) {
+          // ✅ НОВАЯ ЗАПИСЬ — показываем камеру
           const imgSrc = `data:image/jpeg;base64,${data.image_bytes}`;
           let html = '';
 
-          // Отображаем message, если есть
           if (data.message) {
-            html += `<div class="message">${data.message}</div>`;
+            html += `<div class="message">📱 ${data.message}</div>`;
           }
 
-          // Отображаем ticket_id
-          html += `<div>Номер заявки (ticket_id): <span class="ticket-id">${data.ticket_id}</span></div>`;
-
-          // Отображаем изображение
-          html += `<img src="${imgSrc}" alt="Полученное изображение" />`;
+          html += `
+            <div class="image-container">
+              <img src="${imgSrc}" alt="Полученное изображение" />
+            </div>
+            <div class="ticket-card">
+              <span class="ticket-id">#${data.ticket_id}</span>
+              <div class="ticket-label">Ваш номер в очереди</div>
+            </div>
+          `;
 
           updateResult(html);
+          showSuccess();
+          updateTimestamp();
         } else {
-          showError('Сервер вернул некорректные данные (ожидается ticket_id и image_bytes)');
+          showError('Сервер вернул некорректные данные');
         }
       } catch (err) {
         if (err.name !== 'AbortError') {
@@ -109,9 +344,9 @@
       }
     }
 
-    // Запускаем опрос сразу и каждые 2 секунды
+    // Запускаем опрос сразу и каждые 30 секунд
     fetchImage();
-    setInterval(fetchImage, 1500);
+    setInterval(fetchImage, 10000);
   </script>
 </body>
 </html>

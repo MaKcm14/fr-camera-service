@@ -13,6 +13,10 @@ class CameraAPI:
 
         self._conn = cv2.VideoCapture(camera_idx)
 
+        self._conn.set(cv2.CAP_PROP_BUFFERSIZE, 1)
+        self._conn.set(cv2.CAP_PROP_FRAME_WIDTH, 1280)
+        self._conn.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
+
         if not self._conn.isOpened():
             raise errors.CameraAPIError(
                 f"error of the {op}: error of openning the video-capture conn " \
@@ -24,6 +28,9 @@ class CameraAPI:
     # read_frame defines the logic of reading the frame from the camera.
     def read_frame(self) -> MatLike:
         op: str = "repo.camera.capi.CameraAPI.read_frame"
+
+        for _ in range(5):
+            self._conn.grab()
 
         flag_read_success, frame = self._conn.read()
 

@@ -38,7 +38,7 @@ class APIServer:
 
     def send_frame(self, frame: bytes) -> ServerDTO:
         resp = requests.post(f'http://{self._socket}{Endpoints.POST_FRAME.value}', 
-            json={"image_base64": base64.b64encode(frame)},
+            json={"image_base64": base64.b64encode(frame).decode('utf-8')},
         )
 
         data = resp.json()

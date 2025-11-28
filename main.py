@@ -29,10 +29,10 @@ if __name__ == "__main__":
         Controller(
             FlowInteractor(
                 CameraInteractor(
-                    CameraAPI(0),
+                    CameraAPI(1),
                     logger,
                 ),
-                APIServer("localhost:8080"),
+                APIServer("169.254.78.192:8080"),
                 logger,
             ),
             read_delay=1,

@@ -11,9 +11,6 @@ class Formats(enum.Enum):
 
 # FormatConverter defines the type of the data format converter.
 class FormatConverter:
-    # TODO: delete when the display will be fully connected
-    # _count: int = 0
-
     def convert_frame_to_png(self, data: MatLike) -> bytes:
         op: str = "services.converter"
 
@@ -23,10 +20,6 @@ class FormatConverter:
         )
 
         if flag_encode_success:
-            # TODO: delete
-            # with open(f"data/photo-{self._count}.png", 'wb') as f:
-            #     f.write(encoded_data.tobytes())
-            # self._count += 1
             return encoded_data.tobytes()
 
         raise ConverterErr(

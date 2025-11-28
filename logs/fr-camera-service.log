@@ -2071,3 +2071,21 @@ TypeError: Object of type bytes is not JSON serializable
 2025-11-28 22:03:19,031 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:19] "GET /enqueue HTTP/1.1" 200 -
 2025-11-28 22:03:20,524 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:20] "GET /enqueue HTTP/1.1" 200 -
 2025-11-28 22:03:20,866 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 22:03:20] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 23:32:44,544 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 23:32:44,545 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 23:33:00,245 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 23:33:00] "GET / HTTP/1.1" 200 -
+2025-11-28 23:33:02,851 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 23:33:02] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 23:33:14,817 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 23:33:14] "[36mGET / HTTP/1.1[0m" 304 -
+2025-11-28 23:33:15,203 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 23:33:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-28 23:33:16,214 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 23:33:16] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 23:33:46,322 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 23:33:46,324 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 23:33:46] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 23:33:58,168 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:9090
+2025-11-28 23:33:58,169 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 23:33:59,270 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 23:33:59] "GET / HTTP/1.1" 200 -
+2025-11-28 23:34:01,365 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 23:34:01] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 23:34:31,018 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 23:34:31] "GET /enqueue HTTP/1.1" 200 -
+2025-11-28 23:35:00,685 - __main__ - ERROR - errors of the server.notify: couldn't recognize the man
+2025-11-28 23:35:00,688 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 23:35:00] "GET /enqueue HTTP/1.1" 200 -
