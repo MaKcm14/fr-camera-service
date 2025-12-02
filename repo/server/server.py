@@ -8,9 +8,11 @@ class ServerDTO:
     enqueued: bool
     person_id: int
     ticket_id: int
+    is_recognized: bool
 
     def __init__(self):
         self.enqueued = False
+        self.is_recognized = False
         self.person_id = -1
         self.ticket_id = -1
 
@@ -49,8 +51,14 @@ class APIServer:
             raise ServerErr("error of the server's handlers", 
                         ServerErrorCodes.ERR_SERVER_HANDLER.value)
 
-        if resp.status_code < 300:
+        if resp.status_code == 201:
             return ServerDTO().unmarshal(data)
+        elif resp.status_code == 203:
+            dto = ServerDTO()
+            dto.ticket_id = data["ticket_id"]
+            dto.enqueued = False
+            dto.is_recognized = True
+            return dto
 
         dto = ServerDTO()
         dto.set_enqueued(False)

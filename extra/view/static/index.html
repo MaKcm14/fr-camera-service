@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Очередь</title>
     <style>
         * {
@@ -18,144 +18,178 @@
             display: flex;
             align-items: center;
             justify-content: center;
+            padding: 20px;
         }
 
         .container {
-            max-width: 500px;
-            width: 90%;
-        }
-
-        .ticket-display {
+            display: flex;
+            max-width: 1000px;
+            width: 100%;
             background: rgba(255, 255, 255, 0.95);
             border-radius: 20px;
             padding: 40px 30px;
-            text-align: center;
             box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
             backdrop-filter: blur(10px);
+            color: #222;
         }
 
-        h1 {
+        .current-ticket {
+            flex: 2 1 0;
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            border-radius: 20px;
+            color: white;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(59, 130, 246, 0.4);
+            text-align: center;
+            margin-right: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .current-ticket .label {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+            font-weight: 500;
+        }
+        .current-ticket .ticket-number {
+            font-size: 4rem;
+            font-weight: 800;
+            letter-spacing: -3px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+        }
+        .current-ticket .window-number {
             font-size: 2.5rem;
+            margin-top: 10px;
+            opacity: 0.95;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+        }
+
+        .queue-list-container {
+            flex: 3 1 0;
+        }
+
+        .queue-list {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px 20px; /* gap между элементами */
             color: #333;
-            margin-bottom: 30px;
-            font-weight: 300;
+        }
+
+        .queue-list li {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 15px 20px;
+            border-radius: 12px;
+            font-weight: 600;
+            box-shadow: 0 8px 20px rgba(118, 75, 162, 0.5);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
 
         .message {
             font-size: 20px;
-            color: #666;
+            color: #333;
             margin-bottom: 30px;
             min-height: 60px;
             display: flex;
             align-items: center;
             justify-content: center;
             line-height: 1.4;
-            font-size: 20px;
+            text-align: center;
         }
 
-        .ticket-info {
-            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-            border-radius: 15px;
-            padding: 25px;
-            margin-bottom: 20px;
-            color: white;
-        }
-
-        .ticket-number {
-            font-size: 3rem;
-            font-weight: bold;
-            margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-        }
-
-        .window-number {
-            font-size: 2rem;
-            opacity: 0.95;
-            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
-        }
-
-        .status {
-            font-size: 1.2rem;
-            color: #4facfe;
-            font-weight: bold;
-        }
-
-        .hidden {
-            display: none;
-        }
-
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.7; }
-        }
-
-        .loading {
-            animation: pulse 1.5s infinite;
-        }
-
-        @media (max-width: 480px) {
-            .ticket-display {
-                padding: 30px 20px;
+        @media (max-width: 900px) {
+            .container {
+                flex-direction: column;
             }
-            h1 {
-                font-size: 2rem;
+            .current-ticket {
+                margin-right: 0;
+                margin-bottom: 40px;
+            }
+            .queue-list {
+                grid-template-columns: 1fr;
+            }
+            .queue-list li {
+                white-space: normal;
             }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="ticket-display">
-            <h1>Info-Desk</h1>
-            <div id="message" class="message">Ожидание обновления...</div>
-            <div id="ticket-info" class="ticket-info hidden">
-                <div class="ticket-number">Талон № <span id="ticket-id">-</span></div>
-                <div class="window-number">Окно № <span id="window-id">-</span></div>
-            </div>
-            <div id="status" class="status hidden">Current Queue Information</div>
+        <div class="current-ticket" id="current-ticket">
+            <div class="label">Текущий приглашённый</div>
+            <div class="ticket-number" id="ticket-id">-</div>
+            <div class="window-number" id="window-id">Окно № -</div>
+        </div>
+
+        <div class="queue-list-container">
+            <div class="message" id="message">Ожидание обновления...</div>
+            <ul id="queue-list" class="queue-list"></ul>
         </div>
     </div>
+
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             const messageEl = document.getElementById('message');
-            const ticketInfo = document.getElementById('ticket-info');
             const ticketIdEl = document.getElementById('ticket-id');
             const windowIdEl = document.getElementById('window-id');
-            const statusEl = document.getElementById('status');
+            const queueListEl = document.getElementById('queue-list');
 
-            // Интервал обновления каждые 3 секунды (3000мс)
-            const UPDATE_INTERVAL = 35000;
+            const UPDATE_INTERVAL = 10000;
+
+            function renderQueue(queue) {
+                queueListEl.innerHTML = '';
+                if (Array.isArray(queue) && queue.length > 0) {
+                    // Выводим до 20 элементов (10 рядов по 2)
+                    queue.slice(0,20).forEach(item => {
+                        const li = document.createElement('li');
+                        li.textContent = `Талон №${item.ticket_id} — Окно №${item.window_id || '-'}`;
+                        queueListEl.appendChild(li);
+                    });
+                } else {
+                    const li = document.createElement('li');
+                    li.textContent = 'Очередь пуста';
+                    queueListEl.appendChild(li);
+                }
+            }
 
             async function updateTicket() {
                 messageEl.textContent = 'Ожидание получения очереди...';
-                messageEl.classList.add('loading');
-                ticketInfo.classList.add('hidden');
-                statusEl.classList.add('hidden');
 
                 try {
                     const response = await fetch('/invite');
                     const data = await response.json();
-                    
-                    messageEl.textContent = data.message;
-                    messageEl.classList.remove('loading');
-                    
+
+                    messageEl.textContent = data.message || '';
+
                     if (data.ticket_id) {
                         ticketIdEl.textContent = data.ticket_id;
-                        windowIdEl.textContent = data.window_id || '-';
-                        ticketInfo.classList.remove('hidden');
-                        statusEl.classList.remove('hidden');
+                        windowIdEl.textContent = `Окно № ${data.window_id || '-'}`;
+                    } else {
+                        ticketIdEl.textContent = '-';
+                        windowIdEl.textContent = 'Окно № -';
                     }
+
+                    if (data.queue) {
+                        renderQueue(data.queue);
+                    } else {
+                        queueListEl.innerHTML = '';
+                    }
+
                 } catch (error) {
                     messageEl.textContent = 'Ошибка соединения';
-                    statusEl.textContent = 'Ошибка';
-                    statusEl.classList.remove('hidden');
+                    queueListEl.innerHTML = '';
+                    ticketIdEl.textContent = '-';
+                    windowIdEl.textContent = 'Окно № -';
                     console.error('Error:', error);
                 }
             }
 
-            // Запуск цикла каждые 3 секунды
-            updateTicket(); // Первый запрос сразу
+            updateTicket();
             setInterval(updateTicket, UPDATE_INTERVAL);
         });
     </script>

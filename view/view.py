@@ -41,12 +41,19 @@ class Controller:
 
         if dto.enqueued:
             msg = f"Вы были записаны"
+        elif dto.is_recognized:
+            return jsonify({
+                "enqueued": dto.enqueued,
+                "ticket_id": dto.ticket_id,
+                "message": f"Вы были записаны ранее. Ваш номер #{dto.ticket_id}"
+            }), 200
         else:
             return jsonify({
                 "enqueued": dto.enqueued,
                 "ticket_id": -1,
                 "message": msg
             }), 200
+
 
         return jsonify({
             "enqueued": dto.enqueued,
